@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">752286861662</string>
+    <string name="google_api_key" translatable="false">AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg</string>
+    <string name="google_app_id" translatable="false">1:752286861662:android:3b61b53780419857e427cf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg</string>
+    <string name="google_storage_bucket" translatable="false">dreamforonefcm.appspot.com</string>
+    <string name="project_id" translatable="false">dreamforonefcm</string>
+</resources>

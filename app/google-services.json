@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "752286861662",
+    "project_id": "dreamforonefcm",
+    "storage_bucket": "dreamforonefcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:32a5aaa20d065b96e427cf",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.jewelleryshen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-1sqa6pcg8dov4s88j11eg8io131ba9fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.itforone.jewelleryshen",
+            "certificate_hash": "d06a2be4fbe3cf298f1ecea63016d835be45959e"
+          }
+        },
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-v49hv510vsjirsln3jagei6r5crbgnte.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.apoint-rr"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752286861662:android:3b61b53780419857e427cf",
+        "android_client_info": {
+          "package_name": "kr.co.itforone.tdaeri2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS9HKaHcDg7_hu-PhmW-N15eL3epnkPMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752286861662-6efod6n867vhtbo6hfjo4jumb25ctbkc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752286861662-v49hv510vsjirsln3jagei6r5crbgnte.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.itforone.apoint-rr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">T탁송</string>
+    <string name="domain">http://www.xn--t-iz4f900b.com/</string>
+    <string name="domain_check">http://www.xn--t-iz4f900b.com</string>
+    <string name="index">http://www.xn--t-iz4f900b.com/index.php</string>
+    <string name="intro">http://www.xn--t-iz4f900b.com/theme/basic/mobile/intro.php</string>
+</resources>

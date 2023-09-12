@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">xn--T-iz4f900b.com</domain>
+        <domain includeSubdomains="true">postcode.map.daum.net</domain>
+        <domain includeSubdomains="true">apis.openapi.sk.com</domain>
+        <domain includeSubdomains="true">topopentile3.tmap.co.kr</domain>
+        <domain includeSubdomains="true">t1.daumcdn.net</domain>
+        <domain includeSubdomains="true">dapi.kakao.com</domain>
+    </domain-config>
+</network-security-config>

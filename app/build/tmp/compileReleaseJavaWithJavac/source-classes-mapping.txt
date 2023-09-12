@@ -1,0 +1,32 @@
+kr/co/itforone/tdaeri2/ClientManager.java
+ kr.co.itforone.tdaeri2.ClientManager
+ kr.co.itforone.tdaeri2.ClientManager$LocationHandler
+kr/co/itforone/tdaeri2/GpsTracker.java
+ kr.co.itforone.tdaeri2.GpsTracker
+kr/co/itforone/tdaeri2/ChoromeManager.java
+ kr.co.itforone.tdaeri2.ChoromeManager
+ kr.co.itforone.tdaeri2.ChoromeManager$1
+ kr.co.itforone.tdaeri2.ChoromeManager$2
+ kr.co.itforone.tdaeri2.ChoromeManager$3
+kr/co/itforone/tdaeri2/databinding/ActivityMainBinding.java
+ kr.co.itforone.tdaeri2.databinding.ActivityMainBinding
+kr/co/itforone/tdaeri2/BuildConfig.java
+ kr.co.itforone.tdaeri2.BuildConfig
+kr/co/itforone/tdaeri2/MainActivity.java
+ kr.co.itforone.tdaeri2.MainActivity
+ kr.co.itforone.tdaeri2.MainActivity$1
+kr/co/itforone/tdaeri2/DataBindingTriggerClass.java
+ kr.co.itforone.tdaeri2.DataBindingTriggerClass
+kr/co/itforone/tdaeri2/MyFirebaseMessagingService.java
+ kr.co.itforone.tdaeri2.MyFirebaseMessagingService
+kr/co/itforone/tdaeri2/ActivityManager.java
+ kr.co.itforone.tdaeri2.ActivityManager
+kr/co/itforone/tdaeri2/WebviewJavainterface.java
+ kr.co.itforone.tdaeri2.WebviewJavainterface
+ kr.co.itforone.tdaeri2.WebviewJavainterface$1
+ kr.co.itforone.tdaeri2.WebviewJavainterface$2
+ kr.co.itforone.tdaeri2.WebviewJavainterface$3
+kr/co/itforone/tdaeri2/SplashActivity.java
+ kr.co.itforone.tdaeri2.SplashActivity
+ kr.co.itforone.tdaeri2.SplashActivity$1
+ kr.co.itforone.tdaeri2.SplashActivity$2

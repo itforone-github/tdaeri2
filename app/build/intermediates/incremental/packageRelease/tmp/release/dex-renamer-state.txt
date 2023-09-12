@@ -1,0 +1,4 @@
+#Tue May 23 14:22:20 KST 2023
+base.0=D\:\\Android\\Tdaeri2_new\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

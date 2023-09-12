@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\drawable-xxhdpi_splash.jpg.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\drawable-xxhdpi\\splash.jpg"
+    },
+    {
+        "merged": "kr.co.itforone.tdaeri2.app-merged_res-27:/xml_network_security_config.xml.flat",
+        "source": "kr.co.itforone.tdaeri2.app-main-29:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\drawable-xxxhdpi_splash.jpg.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\drawable-xxxhdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\drawable-hdpi_splash.jpg.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\drawable-hdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\drawable-mdpi_splash.jpg.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\drawable-mdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\drawable-xhdpi_splash.jpg.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\drawable-xhdpi\\splash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-merged_res-27:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ITFORONE-RYU\\.gradle\\daemon\\7.4\\kr.co.itforone.tdaeri2.app-main-29:\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
